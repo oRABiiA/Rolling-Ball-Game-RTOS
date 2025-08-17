@@ -28,7 +28,7 @@ This project demonstrates **low-level graphics programming** and **inline assemb
 
 ---
 
-## 📷 Demo (Screenshot)
+## 📷 Screenshots
 <img width="314" height="205" alt="Picture1" src="https://github.com/user-attachments/assets/784c1016-3f19-4401-b4b7-861c9c8f20e6" />
 <img width="435" height="286" alt="Picture2" src="https://github.com/user-attachments/assets/6af36bb8-d80b-414b-b1b0-479322bcc9f0" />
 <img width="336" height="219" alt="Picture3" src="https://github.com/user-attachments/assets/37d3667b-8c7d-481e-af35-5e89dfedbcca" />
