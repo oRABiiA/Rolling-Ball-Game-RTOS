@@ -29,7 +29,11 @@ This project demonstrates **low-level graphics programming** and **inline assemb
 ---
 
 ## 📷 Demo (Screenshot)
-*(Optional — add here if you can capture the DOS screen, or use an emulator like DOSBox to take a screenshot and upload it.)*
+<img width="435" height="286" alt="Picture5" src="https://github.com/user-attachments/assets/6af36bb8-d80b-414b-b1b0-479322bcc9f0" />
+<img width="336" height="219" alt="Picture4" src="https://github.com/user-attachments/assets/37d3667b-8c7d-481e-af35-5e89dfedbcca" />
+<img width="326" height="212" alt="Picture3" src="https://github.com/user-attachments/assets/4c3fd371-055b-4287-a945-488653d94eb9" />
+<img width="303" height="197" alt="Picture2" src="https://github.com/user-attachments/assets/9c130e65-ef50-4959-af35-5acf95e83982" />
+<img width="314" height="205" alt="Picture1" src="https://github.com/user-attachments/assets/784c1016-3f19-4401-b4b7-861c9c8f20e6" />
 
 ---
 
